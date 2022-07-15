@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/tensorbook/Desktop/minor1/cmake-build-debug/src",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/nn.dir/main.cpp.o -c /home/tensorbook/Desktop/minor1/src/main.cpp",
+  "file": "/home/tensorbook/Desktop/minor1/src/main.cpp"
+},
+{
+  "directory": "/home/tensorbook/Desktop/minor1/cmake-build-debug/src",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/nn.dir/CCELossNode.cpp.o -c /home/tensorbook/Desktop/minor1/src/CCELossNode.cpp",
+  "file": "/home/tensorbook/Desktop/minor1/src/CCELossNode.cpp"
+},
+{
+  "directory": "/home/tensorbook/Desktop/minor1/cmake-build-debug/src",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/nn.dir/FFNode.cpp.o -c /home/tensorbook/Desktop/minor1/src/FFNode.cpp",
+  "file": "/home/tensorbook/Desktop/minor1/src/FFNode.cpp"
+},
+{
+  "directory": "/home/tensorbook/Desktop/minor1/cmake-build-debug/src",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/nn.dir/GDOptimizer.cpp.o -c /home/tensorbook/Desktop/minor1/src/GDOptimizer.cpp",
+  "file": "/home/tensorbook/Desktop/minor1/src/GDOptimizer.cpp"
+},
+{
+  "directory": "/home/tensorbook/Desktop/minor1/cmake-build-debug/src",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/nn.dir/MNIST.cpp.o -c /home/tensorbook/Desktop/minor1/src/MNIST.cpp",
+  "file": "/home/tensorbook/Desktop/minor1/src/MNIST.cpp"
+},
+{
+  "directory": "/home/tensorbook/Desktop/minor1/cmake-build-debug/src",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/nn.dir/Model.cpp.o -c /home/tensorbook/Desktop/minor1/src/Model.cpp",
+  "file": "/home/tensorbook/Desktop/minor1/src/Model.cpp"
+}
+]

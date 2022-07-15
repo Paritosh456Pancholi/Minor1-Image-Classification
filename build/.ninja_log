@@ -1,0 +1,8 @@
+# ninja log v5
+1	1615	1639718605691930901	src/CMakeFiles/nn.dir/GDOptimizer.cpp.o	d44bb94886700bd1
+0	1729	1639718605803940117	src/CMakeFiles/nn.dir/CCELossNode.cpp.o	ba29603bdb113dd1
+1	1819	1639718605895947687	src/CMakeFiles/nn.dir/MNIST.cpp.o	5646fbfbf89d353f
+2	1839	1639718605915949332	src/CMakeFiles/nn.dir/Model.cpp.o	3b900b37a2c372ed
+1	1994	1639718606067961786	src/CMakeFiles/nn.dir/FFNode.cpp.o	8b0776a770a054f6
+0	2140	1639718606215973830	src/CMakeFiles/nn.dir/main.cpp.o	90af971513c9be72
+2140	2264	1639718606339983920	src/nn	d45f8a532b17e086

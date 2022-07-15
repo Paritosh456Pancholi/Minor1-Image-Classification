@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/nn.dir/main.cpp.o CMakeFiles/nn.dir/CCELossNode.cpp.o CMakeFiles/nn.dir/FFNode.cpp.o CMakeFiles/nn.dir/GDOptimizer.cpp.o CMakeFiles/nn.dir/MNIST.cpp.o CMakeFiles/nn.dir/Model.cpp.o -o nn 

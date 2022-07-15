@@ -1,0 +1,5 @@
+C:/Users/parit/OneDrive/Desktop/minor1/build/CMakeFiles/edit_cache.dir
+C:/Users/parit/OneDrive/Desktop/minor1/build/CMakeFiles/rebuild_cache.dir
+C:/Users/parit/OneDrive/Desktop/minor1/build/src/CMakeFiles/rebuild_cache.dir
+C:/Users/parit/OneDrive/Desktop/minor1/build/src/CMakeFiles/nn.dir
+C:/Users/parit/OneDrive/Desktop/minor1/build/src/CMakeFiles/edit_cache.dir

@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/parit/OneDrive/Desktop/minor1/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++1z -o CMakeFiles\\nn.dir\\main.cpp.obj -c C:\\Users\\parit\\OneDrive\\Desktop\\minor1\\src\\main.cpp",
+  "file": "C:/Users/parit/OneDrive/Desktop/minor1/src/main.cpp"
+},
+{
+  "directory": "C:/Users/parit/OneDrive/Desktop/minor1/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++1z -o CMakeFiles\\nn.dir\\CCELossNode.cpp.obj -c C:\\Users\\parit\\OneDrive\\Desktop\\minor1\\src\\CCELossNode.cpp",
+  "file": "C:/Users/parit/OneDrive/Desktop/minor1/src/CCELossNode.cpp"
+},
+{
+  "directory": "C:/Users/parit/OneDrive/Desktop/minor1/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++1z -o CMakeFiles\\nn.dir\\FFNode.cpp.obj -c C:\\Users\\parit\\OneDrive\\Desktop\\minor1\\src\\FFNode.cpp",
+  "file": "C:/Users/parit/OneDrive/Desktop/minor1/src/FFNode.cpp"
+},
+{
+  "directory": "C:/Users/parit/OneDrive/Desktop/minor1/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++1z -o CMakeFiles\\nn.dir\\GDOptimizer.cpp.obj -c C:\\Users\\parit\\OneDrive\\Desktop\\minor1\\src\\GDOptimizer.cpp",
+  "file": "C:/Users/parit/OneDrive/Desktop/minor1/src/GDOptimizer.cpp"
+},
+{
+  "directory": "C:/Users/parit/OneDrive/Desktop/minor1/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++1z -o CMakeFiles\\nn.dir\\MNIST.cpp.obj -c C:\\Users\\parit\\OneDrive\\Desktop\\minor1\\src\\MNIST.cpp",
+  "file": "C:/Users/parit/OneDrive/Desktop/minor1/src/MNIST.cpp"
+},
+{
+  "directory": "C:/Users/parit/OneDrive/Desktop/minor1/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++1z -o CMakeFiles\\nn.dir\\Model.cpp.obj -c C:\\Users\\parit\\OneDrive\\Desktop\\minor1\\src\\Model.cpp",
+  "file": "C:/Users/parit/OneDrive/Desktop/minor1/src/Model.cpp"
+}
+]

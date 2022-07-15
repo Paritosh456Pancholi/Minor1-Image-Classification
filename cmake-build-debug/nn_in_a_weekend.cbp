@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="nn_in_a_weekend"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\src\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/tensorbook/Desktop/minor1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/tensorbook/Desktop/minor1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/tensorbook/Desktop/minor1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/tensorbook/Desktop/minor1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/tensorbook/Desktop/minor1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/tensorbook/Desktop/minor1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/tensorbook/Desktop/minor1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/tensorbook/Desktop/minor1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/tensorbook/Desktop/minor1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/tensorbook/Desktop/minor1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/tensorbook/Desktop/minor1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/tensorbook/Desktop/minor1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/tensorbook/Desktop/minor1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/tensorbook/Desktop/minor1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/tensorbook/Desktop/minor1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="nn">
+				<Option output="/home/tensorbook/Desktop/minor1/cmake-build-debug/src/nn" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/tensorbook/Desktop/minor1/cmake-build-debug/src"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/tensorbook/Desktop/minor1/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 nn"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/tensorbook/Desktop/minor1/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/tensorbook/Desktop/minor1/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/tensorbook/Desktop/minor1/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="nn/fast">
+				<Option output="/home/tensorbook/Desktop/minor1/cmake-build-debug/src/nn" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/tensorbook/Desktop/minor1/cmake-build-debug/src"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/tensorbook/Desktop/minor1/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 nn/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/tensorbook/Desktop/minor1/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/tensorbook/Desktop/minor1/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/tensorbook/Desktop/minor1/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/tensorbook/Desktop/minor1/src/CCELossNode.cpp">
+			<Option target="nn"/>
+		</Unit>
+		<Unit filename="/home/tensorbook/Desktop/minor1/src/CCELossNode.hpp">
+			<Option target="nn"/>
+		</Unit>
+		<Unit filename="/home/tensorbook/Desktop/minor1/src/FFNode.cpp">
+			<Option target="nn"/>
+		</Unit>
+		<Unit filename="/home/tensorbook/Desktop/minor1/src/FFNode.hpp">
+			<Option target="nn"/>
+		</Unit>
+		<Unit filename="/home/tensorbook/Desktop/minor1/src/GDOptimizer.cpp">
+			<Option target="nn"/>
+		</Unit>
+		<Unit filename="/home/tensorbook/Desktop/minor1/src/GDOptimizer.hpp">
+			<Option target="nn"/>
+		</Unit>
+		<Unit filename="/home/tensorbook/Desktop/minor1/src/MNIST.cpp">
+			<Option target="nn"/>
+		</Unit>
+		<Unit filename="/home/tensorbook/Desktop/minor1/src/MNIST.hpp">
+			<Option target="nn"/>
+		</Unit>
+		<Unit filename="/home/tensorbook/Desktop/minor1/src/Model.cpp">
+			<Option target="nn"/>
+		</Unit>
+		<Unit filename="/home/tensorbook/Desktop/minor1/src/Model.hpp">
+			<Option target="nn"/>
+		</Unit>
+		<Unit filename="/home/tensorbook/Desktop/minor1/src/main.cpp">
+			<Option target="nn"/>
+		</Unit>
+		<Unit filename="/home/tensorbook/Desktop/minor1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/tensorbook/Desktop/minor1/src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\src\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
